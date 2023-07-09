@@ -1,0 +1,7 @@
+{
+  "semi": false,
+  "singleAttributePerLine": true,
+  "singleQuote": true,
+  "extends": ["next", "prettier"],
+  "plugins": ["prettier-plugin-tailwindcss"]
+}
